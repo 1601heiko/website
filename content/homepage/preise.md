@@ -9,8 +9,8 @@ Preise für 2 Personen je Nacht:
 
 | | |
 |---------------|---------|
-| 01.04 - 30.09 | 85 Euro |
-| 01.10 - 31.03 | 75 Euro |
+| 01.04 - 30.09 | 80 Euro |
+| 01.10 - 31.03 | 70 Euro |
 
 Jede weitere Person 9 Euro pro Nacht.
 
