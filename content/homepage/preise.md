@@ -9,10 +9,10 @@ Preise für 2 Personen je Nacht:
 
 | | |
 |---------------|---------|
-| 01.04 - 30.09 | 80 Euro |
-| 01.10 - 31.03 | 70 Euro |
+| 01.04 - 30.09 | 85 Euro |
+| 01.10 - 31.03 | 75 Euro |
 
-Jede weitere Person 9 Euro pro Nacht.
+Jede weitere Person 8 Euro pro Nacht.
 
 Im Preis enthalten sind ein Wäschepaket (Bettwäsche/Handtücher - regelmäßiger Wechsel), Nebenkosten
 sowie die Endreinigung. 
