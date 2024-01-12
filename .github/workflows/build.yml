@@ -22,7 +22,7 @@ jobs:
       - name: prepare
         uses: peaceiris/actions-hugo@v2
         with:
-          version: '0.106.0'
+          version: '0.121.1'
 
       - name: build
         run: hugo --minify
