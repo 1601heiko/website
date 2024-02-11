@@ -18,6 +18,6 @@ Im Preis enthalten sind ein Wäschepaket (Bettwäsche/Handtücher - regelmäßig
 sowie die Endreinigung. 
 
 Zuzüglich von der Gemeinde Langenargen erhobene Kurtaxe im Zeitraum **01.03 bis 31.10** (ab 16 Jahre
-3,15 Euro je Person und Aufenthaltstag). Hierfür erhalten Sie die [Echt Bodensee
+3,30 Euro je Person und Aufenthaltstag). Hierfür erhalten Sie die [Echt Bodensee
 Card](https://www.echt-bodensee.de/planen/echt-bodensee-card) mit der zahlreiche Veranstaltungen und
 Einrichtungen in Langenargen und den Nachbargemeinden kostenlos bzw. vergünstigt sind.
