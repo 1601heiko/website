@@ -19,7 +19,7 @@ jobs:
         with:
           fetch-depth: 1
       - name: prepare
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
           extended: true
