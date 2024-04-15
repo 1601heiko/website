@@ -4,5 +4,5 @@ weight: 4
 header_menu: true
 ---
 
-Hier sehen Sie sie aktuelle Belegung von unserer Wohnung:
-{{<if1 "https://tportal.tomas.travel/Langenargen-SBO/ukv/calendar/FIT00020070724034042" >}}
+Um unsere aktuelle Belegung anzuzeigen, klicken Sie bitte hier:
+[Belegung anzeigen](https://tportal.tomas.travel/Langenargen-SBO/ukv/calendar/FIT00020070724034042)
