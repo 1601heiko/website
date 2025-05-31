@@ -41,6 +41,6 @@ title = "Wir am See"
         keywords = "ferienwohnung, see, bodensee, langenargen, ferien, langenargen"
 
     [params.umami]
-        enabled = true
-        websiteId = "d46e86a8-41c8-4a3c-a5e8-8290260cccba"
-        jsLocation = "https://analytics.opensync.info/script.js"
+        enabled = false
+        websiteId = "<ID>"
+        jsLocation = "<URL>"
